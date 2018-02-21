@@ -1,0 +1,5 @@
+apt-get -qq update
+apt-get install gcc
+apt-get install vim
+apt-get update
+apt-get install git-core
